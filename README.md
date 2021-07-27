@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div><style>
+.spoiler{ 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover { 
+  background-color:white; 
+  }
+</style></div>
+<span class="spoiler">This is red spaced text.</span>
